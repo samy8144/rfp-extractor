@@ -1,0 +1,45 @@
+{
+  "bid_number": "CC7802",
+  "title": "Dell Latitude 5550",
+  "due_date": "Not specified",
+  "bid_submission_type": "Not specified",
+  "term_of_bid": "pricing is valid for thirty days from the date of this Quote",
+  "pre_bid_meeting": "Not specified",
+  "installation": "Not specified",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Not specified",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "tax exemption certificate to Tax_Department@dell.com or ARSalesTax@emc.com",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Not specified",
+  "model_no": "Latitude 5550",
+  "part_no": "Not specified",
+  "product": "Dell Latitude 5550 XCTO Base",
+  "contact_info": "Tax_Department@dell.com or ARSalesTax@emc.com",
+  "company_name": "Dell",
+  "bid_summary": "This document outlines the terms of sale, governing terms, software licenses, service descriptions, and other specific terms related to a Dell Latitude 5550 quote. It includes information on financing, U.S. Government regulations, and environmental fees.",
+  "product_specification": "Dell Latitude 5550 XCTO Base with Intel Core Ultra 5 125U processor, Windows 11 Pro, 16 GB DDR5 RAM, 256 GB NVMe SSD, 15.6\" FHD display, and Intel Wi-Fi 6E AX211.",
+  "_metadata": {
+    "extraction_timestamp": "2024-01-24T03:34:51Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 10,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "due_date",
+        "bid_submission_type",
+        "pre_bid_meeting",
+        "installation",
+        "bid_bond_requirement",
+        "delivery_date",
+        "payment_terms",
+        "mfg_for_registration",
+        "contract_or_cooperative_to_use",
+        "part_no"
+      ],
+      "data_quality_score": 0.65,
+      "warnings": []
+    }
+  }
+}

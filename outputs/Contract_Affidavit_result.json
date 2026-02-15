@@ -1,0 +1,53 @@
+{
+  "bid_number": "Not specified",
+  "title": "Affidavit",
+  "due_date": "Not specified",
+  "bid_submission_type": "Not specified",
+  "term_of_bid": "Not specified",
+  "pre_bid_meeting": "Not specified",
+  "installation": "Not specified",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Not specified",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "Not specified",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Not specified",
+  "model_no": "Not specified",
+  "part_no": "Not specified",
+  "product": "Not specified",
+  "contact_info": "Not specified",
+  "company_name": "Not specified",
+  "bid_summary": "This document contains affirmations related to authority, registration, financial disclosure, political contributions, drug and alcohol-free workplace, and validity of information.",
+  "product_specification": "Not specified",
+  "_metadata": {
+    "extraction_timestamp": "2024-01-24T01:49:48Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 1.234,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "bid_number",
+        "due_date",
+        "bid_submission_type",
+        "term_of_bid",
+        "pre_bid_meeting",
+        "installation",
+        "bid_bond_requirement",
+        "delivery_date",
+        "payment_terms",
+        "additional_documentation_required",
+        "mfg_for_registration",
+        "contract_or_cooperative_to_use",
+        "model_no",
+        "part_no",
+        "product",
+        "contact_info",
+        "company_name",
+        "product_specification"
+      ],
+      "data_quality_score": 0.12,
+      "warnings": []
+    }
+  }
+}

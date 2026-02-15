@@ -1,0 +1,41 @@
+{
+  "bid_number": "#E20P4600040",
+  "title": "Hardware Master Contract",
+  "due_date": "06/10/2024",
+  "bid_submission_type": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage (eMMA) e-Procurement system. Bids will not be accepted by email, fax, U.S. Mail, or hand delivery.",
+  "term_of_bid": "Please allow proposals/quotes provided in response to this PORFP to be valid for at least 90 days after the set due date above.",
+  "pre_bid_meeting": "Not specified",
+  "installation": "Not specified",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Delivery within 45 days of Award.",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "Mercury Affidavit: https://doit.maryland.gov/contracts/Documents/hardware_contract/hwmercury_affidavit.pdf",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Hardware Master Contract",
+  "model_no": "WD22TB4",
+  "part_no": "Not specified",
+  "product": "Dell Latitude 5550, Dell Thunderbolt 4 Dock \u2013 WD22TB4",
+  "contact_info": "Tamaira Hawkins\n410-260-7533\nthawkins@treasurer.state.md.us",
+  "company_name": "Dell",
+  "bid_summary": "Purchase Order Request for Proposals (PORFP) for hardware under the Master Contract. Includes laptops, docks, and extended warranties.",
+  "product_specification": "*Laptops must be Microsoft Copilot ready*",
+  "_metadata": {
+    "extraction_timestamp": "2024-05-27T20:37:01Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 5,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "pre_bid_meeting",
+        "installation",
+        "bid_bond_requirement",
+        "payment_terms",
+        "mfg_for_registration",
+        "part_no"
+      ],
+      "data_quality_score": 0.85,
+      "warnings": []
+    }
+  }
+}

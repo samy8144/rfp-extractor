@@ -1,0 +1,42 @@
+{
+  "bid_number": "168884",
+  "title": "JA-207652 Student and Staff Computing Devices",
+  "due_date": "27-JUN-2024 14:00:00",
+  "bid_submission_type": "Responses to be submitted online via our electronic system or manual submissions must be delivered to the Procurement Services Department, in a sealed envelope by the date and time stated. No fax or email submissions will be accepted.",
+  "term_of_bid": "three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+  "pre_bid_meeting": "10-JUN-2024 14:00:00 via TEAMS video conference",
+  "installation": "Deployment Services\nAll deliveries and deployments must incorporate white glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations.",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Not specified",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "For proposing vendors who are resellers, a copy of all factory-authorized repair and maintenance certifications must be submitted with each proposal.",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Educational Purchasing Cooperative of North Texas (EPCNT) and Central Texas Purchasing Alliance (CTPA)",
+  "model_no": "Not specified",
+  "part_no": "Not specified",
+  "product": "student and staff computing devices, including laptops, desktops, tablet devices, and display monitors",
+  "contact_info": "ALZATE, JASMINE Email JALZATE@dallasisd.org",
+  "company_name": "Not specified",
+  "bid_summary": "Request for Proposal for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors may submit proposals for one, several, or all categories of devices required by the District.",
+  "product_specification": "Minimum hardware requirements for each tier of device required by Dallas ISD. Includes specifications for Student Chromebook Laptops, Student Windows Laptops, Student Tablets, Staff Windows Basic Desktop, Staff Professional Desktop, Staff Basic Laptop, Staff Laptop, and Display Monitors (Touch and Non-Touch).",
+  "_metadata": {
+    "extraction_timestamp": "2024-06-04T16:37:22Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 25.34,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "bid_bond_requirement",
+        "delivery_date",
+        "payment_terms",
+        "mfg_for_registration",
+        "model_no",
+        "part_no",
+        "company_name"
+      ],
+      "data_quality_score": 0.72,
+      "warnings": []
+    }
+  }
+}

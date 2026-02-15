@@ -1,0 +1,44 @@
+{
+  "bid_number": "JA-207652",
+  "title": "Student and Staff Computing Devices **SOURCING #168884**",
+  "due_date": "07/09/2024 03:00 PM EDT",
+  "bid_submission_type": "RFP - Request for Proposal (Informal)",
+  "term_of_bid": "five years",
+  "pre_bid_meeting": "06/10/2024 03:00 PM EDT",
+  "installation": "Not specified",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Not specified",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "Not specified",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Not specified",
+  "model_no": "Not specified",
+  "part_no": "Not specified",
+  "product": "student and staff computing devices, including laptops, desktops, tablet devices, and display monitors",
+  "contact_info": "Procurement Services\n972-925-3700\nProcurementCS@dallasisd.org",
+  "company_name": "Dallas Independent School District",
+  "bid_summary": "Request for Proposal (RFP) for student and staff computing devices. Vendors may submit proposals for one, several, or all categories of devices. Quantities requested are estimates to be ordered over the five years of the contracts.",
+  "product_specification": "Minimum hardware requirements for each tier of device required by Dallas ISD. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices.",
+  "_metadata": {
+    "extraction_timestamp": "2024-06-04T18:29:01Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 5,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "installation",
+        "bid_bond_requirement",
+        "delivery_date",
+        "payment_terms",
+        "additional_documentation_required",
+        "mfg_for_registration",
+        "contract_or_cooperative_to_use",
+        "model_no",
+        "part_no"
+      ],
+      "data_quality_score": 0.78,
+      "warnings": []
+    }
+  }
+}

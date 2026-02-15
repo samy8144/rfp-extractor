@@ -1,0 +1,45 @@
+{
+  "bid_number": "JA-207652",
+  "title": "Student and Staff Computing Devices",
+  "due_date": "Not specified",
+  "bid_submission_type": "Submit a copy of the addendum with the proposal.",
+  "term_of_bid": "Quantities will be spread over life of the contract.",
+  "pre_bid_meeting": "Not specified",
+  "installation": "White glove services required, including asset decaling, asset reporting, etching, and delivery to varied locations. Etching is only required on laptops. Desktops do not need to be secured.",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Starting in September of 2024.",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "Additional warranty information and pricing can be submitted as an attachment. Form 1295 should be submitted with the RFP response.",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Not specified",
+  "model_no": "Not specified",
+  "part_no": "Not specified",
+  "product": "Student and Staff Computing Devices",
+  "contact_info": "Not specified",
+  "company_name": "Not specified",
+  "bid_summary": "This addendum provides responses to vendor questions regarding the RFP for student and staff computing devices. It clarifies specifications, warranty requirements, deployment details, and submission instructions.",
+  "product_specification": "USB 3.1 is a minimum requirement for display monitors. A higher specification is permissible. One-year warranty for student Chromebooks and three years for student and staff Windows laptops are required. Windows devices require autopilot. Chromebooks require enrollment in Google Management. 65w chargers are a minimum requirement for Chrome devices.",
+  "_metadata": {
+    "extraction_timestamp": "2024-01-26T01:42:13Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 5,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "due_date",
+        "pre_bid_meeting",
+        "bid_bond_requirement",
+        "payment_terms",
+        "mfg_for_registration",
+        "contract_or_cooperative_to_use",
+        "model_no",
+        "part_no",
+        "contact_info",
+        "company_name"
+      ],
+      "data_quality_score": 0.5,
+      "warnings": []
+    }
+  }
+}

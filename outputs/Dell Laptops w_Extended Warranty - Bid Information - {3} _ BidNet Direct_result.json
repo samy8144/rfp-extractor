@@ -1,0 +1,45 @@
+{
+  "bid_number": "BPM044557",
+  "title": "Dell Laptops w/Extended Warranty",
+  "due_date": "06/10/2024 02:00 PM EDT",
+  "bid_submission_type": "RFP - Request for Proposal (Informal)",
+  "term_of_bid": "Not specified",
+  "pre_bid_meeting": "Not specified",
+  "installation": "Not specified",
+  "bid_bond_requirement": "Not specified",
+  "delivery_date": "Not specified",
+  "payment_terms": "Not specified",
+  "additional_documentation_required": "Not specified",
+  "mfg_for_registration": "Not specified",
+  "contract_or_cooperative_to_use": "Not specified",
+  "model_no": "WD22TB4",
+  "part_no": "Not specified",
+  "product": "Dell Latitude 5550 Laptops, Dell Thunderbolt 4 Dock \u2013 WD22TB4",
+  "contact_info": "Tamaira Hawkins\n410-260-7533\nThawkins@treasurer.state.md.us",
+  "company_name": "State of Maryland Treasurer's Office",
+  "bid_summary": "Dell Latitude 5550 Laptops *Laptops must be Microsoft Copilot ready* and Dell Thunderbolt 4 Dock \u2013 WD22TB4",
+  "product_specification": "Dell Latitude 5550 SI# CC7802, Dell Thunderbolt 4 Dock \u2013 WD22TB4",
+  "_metadata": {
+    "extraction_timestamp": "2024-05-29T03:59:37Z",
+    "confidence": 0.95,
+    "success": true,
+    "processing_time": 1.234,
+    "validation": {
+      "is_valid": true,
+      "missing_required_fields": [
+        "term_of_bid",
+        "pre_bid_meeting",
+        "installation",
+        "bid_bond_requirement",
+        "delivery_date",
+        "payment_terms",
+        "additional_documentation_required",
+        "mfg_for_registration",
+        "contract_or_cooperative_to_use",
+        "part_no"
+      ],
+      "data_quality_score": 0.75,
+      "warnings": []
+    }
+  }
+}
